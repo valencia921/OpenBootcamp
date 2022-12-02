@@ -1,4 +1,4 @@
-package Entrega_1;
+package Entregas;
 
 public class PrimerEntrega {
     public static void main(String[] args) {
